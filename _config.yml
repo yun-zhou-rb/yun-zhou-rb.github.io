@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
+title: Yun Blog
+description: Blogs about machine learning and techniques
 show_downloads: true
 google_analytics:
-=======
->>>>>>> 8835711b6cae5418f3a162fc815d1e833c47a2ef
 theme: jekyll-theme-hacker
